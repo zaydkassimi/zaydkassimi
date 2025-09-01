@@ -1,5 +1,4 @@
 
-[![Header](https://github.com/reblox01/reblox01/blob/d16115ff9f56e4a4326c451e1eec112303f4bb25/banner.gif?raw=true "Header")](https://github.com/reblox01)
 
 ## 👋 Hello! 
 Web full-stack developer based in Morocco. I specialize in creating seamless and innovative web solutions, leveraging my skills in both front-end and back-end development to build dynamic and user-centric applications.
