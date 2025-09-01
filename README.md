@@ -1,9 +1,29 @@
 
 
 ## 👋 Hello! 
-Web full-stack developer based in Morocco. I specialize in creating seamless and innovative web solutions, leveraging my skills in both front-end and back-end development to build dynamic and user-centric applications.
+I’m Zayd Kassimi, a Full-Stack Web Developer from Morocco with a passion for building dynamic, scalable, and user-focused applications. Since 2021, I’ve been crafting modern digital solutions that merge clean front-end interfaces with robust back-end systems. My work combines React, Next.js, PHP, Symfony, Flask, and more to deliver seamless experiences tailored to real-world needs.
+
+I approach development with a focus on:
+
+⚡ Performance – writing optimized code and scalable architectures.
+
+🎨 Design & UX – blending responsive design with user-centric interfaces.
+
+🔧 Engineering – building APIs, dashboards, and full business logic with reliability.
+
+🚀 Innovation – always exploring new technologies to push projects further.
 ## 🚀 Portfolio
-Explore my latest web development projects, showcasing my expertise in front-end and back-end technologies, user interface design, and performance optimization.
+Here on GitHub, you’ll find a showcase of projects that highlight my expertise across the stack:
+
+Front-End Development → Interactive UIs with React, Next.js, and Tailwind.
+
+Back-End Engineering → Powerful APIs, authentication systems, and databases with Symfony, Flask, and Django.
+
+UI/UX & Design Systems → Clean, modern interfaces designed with Figma and implemented in code.
+
+Full Project Lifecycle → From brainstorming and prototyping to deployment and optimization.
+
+Every project reflects my commitment to professional coding standards, scalable solutions, and creating tools that are not only functional but also impactful.
 
 <a href="https://zaydkassimi.vercel.app/" target="_blank">Visit My Portfolio</a>
 
