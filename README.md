@@ -45,7 +45,7 @@ I'm always open to new collaborations, interesting projects, or just a friendly 
   <a href="https://www.linkedin.com/in/zayd-kassimi/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="zayd-kassimi" /></a>
   <a href="https://discord.com/users/1057721336526549163" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="mzQ8hw5GjQ" /></a>
   <a href="https://instagram.com/zaydkasimii" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="zaydkasimi" /></a>
-  <a href="zaydkassiimi@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:zaydkassiimi@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
