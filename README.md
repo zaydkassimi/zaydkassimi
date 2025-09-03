@@ -3,6 +3,7 @@
   <h1 style="color: #61DAFB; font-size: 2.8em; margin-top: 15px; margin-bottom: 5px;">Zayd Kassimi</h1>
   <p style="color: #A0A0A0; font-size: 1.3em; margin-bottom: 20px;">Full-Stack Web Developer | Crafting Digital Experiences with Code</p>
 </div>
+
 ---
 
 ## 👋 Hello There!
@@ -68,5 +69,5 @@ I'm always open to new collaborations, interesting projects, or just a friendly 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZaydKassimi&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Zayd Kassimi's GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaydKassimi&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZaydKassimi&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZaydKassimi&theme=dark&hide_border=true" alt="GitHub Streak"/>
 </div>
