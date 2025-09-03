@@ -1,9 +1,4 @@
-<div align="center">
-  [![Header](zaydkassimi/gg.png "Header")](https://github.com/zaydkassimi)
-  <h1 style="color: #61DAFB; font-size: 2.8em; margin-top: 15px; margin-bottom: 5px;">Zayd Kassimi</h1>
-  <p style="color: #A0A0A0; font-size: 1.3em; margin-bottom: 20px;">Full-Stack Web Developer | Crafting Digital Experiences with Code</p>
-</div>
-
+[![Header](https://github.com/zaydkassimi/zaydkassimi/blob/main/gg.png?raw=true "Header")](https://github.com/zaydkassimi)
 
 ---
 
