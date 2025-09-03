@@ -68,5 +68,5 @@ I'm always open to new collaborations, interesting projects, or just a friendly 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZaydKassimi&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Zayd Kassimi's GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaydKassimi&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZaydKassimi&theme=dark&hide_border=true" alt="GitHub Streak"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZaydKassimi&theme=dark&hide_border=true" alt="GitHub Streak"/>
 </div>
