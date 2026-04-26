@@ -54,7 +54,8 @@ I'm always open to new collaborations, interesting projects, or just a friendly 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,js,py,html,css,bootstrap,react,nextjs,nodejs,express,mongodb,mysql,symfony,laravel,docker,gcp,figma,ps,linux,git,github,gitlab,vscode,wordpress,cpp" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,nodejs,express,php,laravel,symfony,python,django,flask,java,cpp,csharp,dotnet,flutter,kotlin,reactnative,mysql,sqlite,mongodb,oracle,sqlserver,git,github,gitlab,docker,gcp,figma,bootstrap,vscode,linux,wordpress" 
+         alt="My Skills">
   </a>
 </p>
 
