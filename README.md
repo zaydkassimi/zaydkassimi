@@ -109,17 +109,4 @@ I'm always open to new collaborations, interesting projects, or just a friendly 
 
 ## 📈 My GitHub Activity:
 
-<div align="center">
-
-  <table>
-    <tr>
-      <td align="center">
-        <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaydKassimi&layout=compact&theme=github_dark&hide_border=true&border_radius=15"
-          height="180"
-        />
-      </td>
-    </tr>
-  </table>
-
-</div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ZaydKassimi&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Zayd Kassimi's GitHub Stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaydKassimi&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/> </div>
