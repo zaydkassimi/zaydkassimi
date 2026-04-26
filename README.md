@@ -114,6 +114,7 @@ I'm always open to new collaborations, interesting projects, or just a friendly 
   <img 
     src="https://github-readme-stats.vercel.app/api?username=ZaydKassimi&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&border_radius=12" 
     height="170"
+    style="margin-right: 10px;"
   />
 
   <img 
