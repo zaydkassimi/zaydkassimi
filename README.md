@@ -111,14 +111,15 @@ I'm always open to new collaborations, interesting projects, or just a friendly 
 
 <div align="center">
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ZaydKassimi&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&border_radius=12" 
-    width="48%"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaydKassimi&layout=compact&theme=github_dark&hide_border=true&border_radius=12" 
-    width="48%"
-  />
+  <table>
+    <tr>
+      <td align="center">
+        <img 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaydKassimi&layout=compact&theme=github_dark&hide_border=true&border_radius=15"
+          height="180"
+        />
+      </td>
+    </tr>
+  </table>
 
 </div>
