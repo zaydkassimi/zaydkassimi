@@ -113,17 +113,12 @@ I'm always open to new collaborations, interesting projects, or just a friendly 
 
   <img 
     src="https://github-readme-stats.vercel.app/api?username=ZaydKassimi&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&border_radius=12" 
-    height="160"
+    height="170"
   />
 
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaydKassimi&layout=compact&theme=github_dark&hide_border=true&border_radius=12" 
-    height="160"
-  />
-
-  <img 
-    src="https://streak-stats.demolab.com?user=ZaydKassimi&theme=github-dark&hide_border=true&border_radius=12" 
-    height="160"
+    height="170"
   />
 
 </div>
