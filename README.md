@@ -52,20 +52,12 @@ I'm always open to new collaborations, interesting projects, or just a friendly 
 
 ## ⚙️ Languages and Tools
 
-### Frontend
-![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,bootstrap)
-
-### Backend
-![Backend](https://skillicons.dev/icons?i=php,laravel,symfony,python,django,flask,java,csharp,dotnet)
-
-### Mobile
-![Mobile](https://skillicons.dev/icons?i=flutter,kotlin,reactnative)
-
-### Databases
-![Databases](https://skillicons.dev/icons?i=mysql,sqlite,mongodb,oracle,sqlserver)
-
-### Tools & Others
-![Tools](https://skillicons.dev/icons?i=git,github,gitlab,docker,gcp,figma,linux,vscode,wordpress)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,nodejs,express,php,laravel,symfony,python,django,flask,java,cpp,csharp,dotnet,flutter,kotlin,reactnative,mysql,sqlite,mongodb,oracle,sqlserver,git,github,gitlab,docker,gcp,figma,bootstrap,vscode,linux,wordpress&perline=12" 
+         alt="Languages and Tools">
+  </a>
+</p>
 
 ---
 
