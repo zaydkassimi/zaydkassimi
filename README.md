@@ -171,6 +171,31 @@ I'm always open to new collaborations, interesting projects, or just a friendly 
 </div>
 
 
+## 🎯 Current Goals
+
+<div align="center">
+<table>
+<tr>
+<td width="33%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+<h4>🤖 AI-Powered Apps</h4>
+<p>Building more intelligent web applications using Gemini and OpenAI APIs</p>
+</td>
+<td width="33%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
+<h4>📱 Mobile Development</h4>
+<p>Expanding skills in Flutter and Kotlin to build cross-platform mobile apps</p>
+</td>
+<td width="33%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
+<h4>🔒 App Security</h4>
+<p>Building secure apps with rate limiting, input validation, secure headers and safe secrets management</p>
+</td>
+</tr>
+</table>
+</div>
+
+
 <br/>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
