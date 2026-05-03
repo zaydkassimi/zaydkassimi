@@ -171,6 +171,27 @@ I'm always open to new collaborations, interesting projects, or just a friendly 
 </div>
 
 
+## 💰 Support My Journey
+
+
+<div align="center">
+
+### 💭 *"Code is poetry written in logic, and every bug is just a plot twist"* 
+
+<img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceea2-de86-4dd6-a8db-7cda5c2f92c4.gif" width="200">
+
+![Profile Views](https://komarev.com/ghpvc/?username=zaydkassimi&color=36BCF7&style=for-the-badge&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/zaydkassimi1?style=for-the-badge&color=36BCF7&label=Followers)
+![GitHub User's stars](https://img.shields.io/github/stars/zaydkassimi?style=for-the-badge&color=FFD700&label=Total+Stars)
+
+**⭐ Don't forget to star my repositories if you find them useful!**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99c676e5a8da.gif" width="200">
+
+### 🎯 2026 Goals: *Building the future, one commit at a time*
+
+</div>
+
 ## 🎯 Current Goals
 
 <div align="center">
