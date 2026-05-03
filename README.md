@@ -169,3 +169,8 @@ I'm always open to new collaborations, interesting projects, or just a friendly 
   <br/><br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zaydkassimi&theme=github-compact&hide_border=true&area=true" alt="Activity Graph"/>
 </div>
+
+
+<br/>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
