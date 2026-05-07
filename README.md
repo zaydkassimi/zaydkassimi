@@ -28,7 +28,7 @@ Each project is a testament to my commitment to **professional coding standards*
 
 <br>
 <div align="center">
-  <a href="https://zaydkassimi.vercel.app/" target="_blank">
+  <a href="https://zaydkassimi.me/" target="_blank">
     <img src="https://img.shields.io/badge/Explore_My_Portfolio-306998?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit My Portfolio">
   </a>
 </div>
