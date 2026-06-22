@@ -160,11 +160,7 @@ I'm always open to new collaborations, interesting projects, or just a friendly 
 
 ## 📈 My GitHub Activity:
 
-<div align="center">
-  <img src="https://github-readme-stats-seven-psi-99.vercel.app/api?username=zaydkassimi&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats-seven-psi-99.vercel.app/api/top-langs/?username=zaydkassimi&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-  <br/><br/>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaydkassimi&theme=dark&hide_border=true" alt="GitHub Streak" />
   <br/><br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zaydkassimi&theme=github-compact&hide_border=true&area=true" alt="Activity Graph"/>
